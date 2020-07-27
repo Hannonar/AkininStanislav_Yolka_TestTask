@@ -1,0 +1,11 @@
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\bin\Debug\APICallingLib.dll.config
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\bin\Debug\APICallingLib.dll
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\bin\Debug\APICallingLib.pdb
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\obj\Debug\APICallingLib.csprojAssemblyReference.cache
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\obj\Debug\APICallingLib.csproj.CopyComplete
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\obj\Debug\APICallingLib.dll
+C:\Users\Hanno\Desktop\AkininStanislav_Yolka_TestTask\APICallingLib\obj\Debug\APICallingLib.pdb
